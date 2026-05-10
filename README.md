@@ -23,7 +23,7 @@ I specialise in designing scalable backend systems and crafting responsive front
 
 ---
 
-## 🛠 What I Build
+## What I Build
 
 I help teams build and launch MVPs by:
 
