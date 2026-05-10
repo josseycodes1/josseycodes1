@@ -1,15 +1,15 @@
 <!-- Header -->
 <div align="center">
 
-# Hi there, I'm Josephine 👋
+# Hi there, I'm Josephine, also known as Josseycodes
 
 **Fullstack Software Engineer · Python · Django · NextJS · TypeScript**
 
 *Building production-ready web platforms for 4+ years*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josseycodes/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel&logoColor=white)](https://josseycodes-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adewumijosephine1@gmail.com)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 I'm a Fullstack Software Engineer with 4+ years of hands-on experience building and shipping production-ready web platforms. I've worked across backend and frontend teams on real-life products — from concept to deployment.
 
-I specialise in designing scalable backend systems and crafting responsive frontends, with a track record of contributing to products across **fintech, hospitality, e-commerce, regulatory intelligence, and consumer platforms**.
+I specialise in designing scalable backend systems and crafting responsive frontends, with a track record of contributing to products across **fintech, e-commerce, regulatory intelligence, education, and consumer platforms**.
 
 ---
 
@@ -27,28 +27,29 @@ I specialise in designing scalable backend systems and crafting responsive front
 
 I help teams build and launch MVPs by:
 
-- 🎨 Collaborating with UI/UX designers to create wireframes and understand user flows
-- 🗃️ Designing scalable models and database schemas for efficient backend architecture
-- ⚙️ Working with DevOps to set up and maintain CI/CD pipelines
-- 💻 Writing responsive, user-friendly frontends with **NextJS** and **Tailwind CSS**
-- 🔗 Integrating backend services and APIs using **Python** and **Django**
-- 🚀 Deploying applications to production
-- 📊 Monitoring and maintaining applications across the full stack
+- Collaborating with UI/UX designers to create wireframes and understand user flows
+- Designing scalable models and database schemas for efficient backend architecture
+- Working with DevOps to set up and maintain CI/CD pipelines
+- Writing responsive, user-friendly frontends with **NextJS** and **Tailwind CSS**
+- Integrating backend services and APIs using **Python** and **Django**
+- Deploying applications to production
+- Monitoring and maintaining applications across the full stack
 
 ---
 
-## 🚀 Products I've Contributed To
+## Products I've Contributed To
 
 | Product | Description |
 |---------|-------------|
+| **Declutah** | Secondary market listing platform for decluttered items, with location-based filtering to connect buyers and sellers nearby |
 | **iDonatio** | Corporate donation platform connecting donors and donees with real-time donation visibility and administrative tooling |
-| **Meride Haven** | Hospitality, transport, and security services platform |
-| **Proattire** | Fashion commerce platform connecting buyers with bespoke and ready-to-wear fashion creators |
 | **LegalWatchDog** | AI-powered regulatory intelligence platform that monitors regulatory sources, detects changes, and delivers AI-summarized insights in real time |
+| **Proattire** | Fashion commerce platform connecting buyers with bespoke and ready-to-wear fashion creators |
+| **MNC** | Mentoring and coaching platform that helps learners feel seen, track their growth, and learn at their own pace |
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -86,30 +87,31 @@ I help teams build and launch MVPs by:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![Josephine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josseycodes1&show_icons=true&theme=default&hide_border=true&count_private=true)
+[![Josephine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josseycodes1&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800)](https://github.com/josseycodes1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josseycodes1&layout=compact&theme=default&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josseycodes1&layout=compact&theme=default&hide_border=true&cache_seconds=1800)](https://github.com/josseycodes1)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to:
-- 🤝 Meaningful collaborations
-- 💼 Fullstack-focused roles
-- 💬 Conversations around building scalable systems
+- Meaningful collaborations
+- Fullstack-focused roles
+- Conversations around building scalable systems
 
 > *"Let's connect and build something great together."*
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josseycodes/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white)](https://josseycodes-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-adewumijosephine1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adewumijosephine1@gmail.com)
 
 </div>
