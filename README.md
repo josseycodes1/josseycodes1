@@ -28,7 +28,7 @@ I specialise in designing scalable backend systems and crafting responsive front
 I help teams build and launch MVPs by:
 
 - Collaborating with UI/UX designers to create wireframes and understand user flows
-- Designing scalable models and database schemas for efficient backend architecture
+- Designing scalable system design and architecture, models and database schemas for efficient backend architecture
 - Working with DevOps to set up and maintain CI/CD pipelines
 - Writing responsive, user-friendly frontends with **NextJS** and **Tailwind CSS**
 - Integrating backend services and APIs using **Python** and **Django**
