@@ -5,7 +5,7 @@
 
 **Fullstack Software Engineer · Python · Django · NextJS · TypeScript**
 
-*Building production-ready web platforms for 4+ years*
+*Building production-ready web platforms for 4 years*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josseycodes/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel&logoColor=white)](https://josseycodes-portfolio.vercel.app/)
@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a Fullstack Software Engineer with 4+ years of hands-on experience building and shipping production-ready web platforms. I've worked across backend and frontend teams on real-life products — from concept to deployment.
+I'm a Fullstack Software Engineer with 4 years of hands-on experience building and shipping production-ready web platforms. I've worked across backend and frontend teams on real-life products — from concept to deployment.
 
 I specialise in designing scalable backend systems and crafting responsive frontends, with a track record of contributing to products across **fintech, e-commerce, regulatory intelligence, education, and consumer platforms**.
 
