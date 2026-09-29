@@ -19,7 +19,7 @@
 
 I'm a Fullstack Software Engineer with 4 years of hands-on experience building and shipping production-ready web platforms. I've worked across backend and frontend teams on real-life products — from concept to deployment.
 
-I specialise in designing scalable backend systems and crafting responsive frontends, with a track record of contributing to products across **fintech, e-commerce, regulatory intelligence, education, and consumer platforms**.
+I specialise in designing scalable backend systems and crafting responsive frontends, with a track record of contributing to products across **e-commerce, regulatory intelligence, education, and consumer platforms**.
 
 ---
 
